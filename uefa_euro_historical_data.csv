@@ -1,0 +1,258 @@
+home,away,year,HomeGoals,AwayGoals
+England,Switzerland,1996,1,1
+Czech Republic,Germany,1996,1,2
+Germany,England,1996,1,1
+France,Czech Republic,1996,0,0
+Czech Republic,Portugal,1996,1,0
+Germany,Croatia,1996,2,1
+France,Netherlands,1996,0,0
+Spain,England,1996,0,0
+Turkey,Denmark,1996,0,3
+Croatia,Denmark,1996,3,0
+Portugal,Turkey,1996,1,0
+Turkey,Croatia,1996,0,1
+Denmark,Portugal,1996,1,1
+Italy,Germany,1996,0,0
+Russia,Czech Republic,1996,3,3
+Croatia,Portugal,1996,0,3
+Czech Republic,Italy,1996,2,1
+Russia,Germany,1996,0,3
+Switzerland,Netherlands,1996,0,2
+Scotland,England,1996,0,2
+Scotland,Switzerland,1996,1,0
+Netherlands,England,1996,1,4
+Spain,Bulgaria,1996,1,1
+Romania,France,1996,0,1
+Netherlands,Scotland,1996,0,0
+France,Spain,1996,1,1
+France,Bulgaria,1996,3,1
+Romania,Spain,1996,1,2
+Germany,Czech Republic,1996,2,0
+Italy,Russia,1996,2,1
+Bulgaria,Romania,1996,1,0
+Slovenia,Norway,2000,0,0
+France,Denmark,2000,3,0
+Netherlands,Czech Republic,2000,1,0
+Czech Republic,France,2000,1,2
+Denmark,Netherlands,2000,0,3
+Denmark,Czech Republic,2000,0,2
+France,Netherlands,2000,2,3
+Netherlands,FR Yugoslavia,2000,6,1
+Italy,Romania,2000,2,0
+Spain,France,2000,1,2
+France,Portugal,2000,2,1
+Italy,Netherlands,2000,0,0
+France,Italy,2000,2,1
+Portugal,Turkey,2000,2,0
+FR Yugoslavia,Spain,2000,3,4
+Turkey,Italy,2000,1,2
+Slovenia,Spain,2000,1,2
+Norway,FR Yugoslavia,2000,0,1
+Portugal,England,2000,3,2
+Romania,Portugal,2000,0,1
+England,Germany,2000,1,0
+England,Romania,2000,2,3
+Portugal,Germany,2000,3,0
+Belgium,Sweden,2000,2,1
+Germany,Romania,2000,1,1
+Italy,Belgium,2000,2,0
+Sweden,Turkey,2000,0,0
+Turkey,Belgium,2000,2,0
+Italy,Sweden,2000,2,1
+Spain,Norway,2000,0,1
+FR Yugoslavia,Slovenia,2000,3,3
+Czech Republic,Latvia,2004,2,1
+Germany,Netherlands,2004,1,1
+Latvia,Germany,2004,0,0
+Netherlands,Czech Republic,2004,2,3
+Netherlands,Latvia,2004,3,0
+Germany,Czech Republic,2004,1,2
+Sweden,Netherlands,2004,0,0
+France,Greece,2004,0,1
+Denmark,Sweden,2004,2,2
+Czech Republic,Denmark,2004,3,0
+Portugal,Netherlands,2004,2,1
+Greece,Czech Republic,2004,1,0
+Portugal,Greece,2004,0,1
+Portugal,England,2004,2,2
+Italy,Bulgaria,2004,2,1
+France,England,2004,2,1
+Bulgaria,Denmark,2004,0,2
+Spain,Russia,2004,1,0
+Greece,Spain,2004,1,1
+Russia,Portugal,2004,0,2
+Spain,Portugal,2004,0,1
+Russia,Greece,2004,2,1
+Switzerland,Croatia,2004,0,0
+Portugal,Greece,2004,1,2
+England,Switzerland,2004,3,0
+Sweden,Bulgaria,2004,5,0
+Denmark,Italy,2004,0,0
+Italy,Sweden,2004,1,1
+Croatia,England,2004,2,4
+Croatia,France,2004,2,2
+Switzerland,France,2004,1,3
+France,Italy,2008,0,2
+Spain,Russia,2008,4,1
+Greece,Sweden,2008,0,2
+Sweden,Spain,2008,1,2
+Greece,Russia,2008,0,1
+Greece,Spain,2008,1,2
+Portugal,Germany,2008,2,3
+Croatia,Turkey,2008,1,1
+Germany,Spain,2008,0,1
+Spain,Italy,2008,0,0
+Germany,Turkey,2008,3,2
+Russia,Spain,2008,0,3
+Netherlands,Romania,2008,2,0
+Russia,Sweden,2008,2,0
+Netherlands,Russia,2008,1,3
+Netherlands,France,2008,4,1
+Netherlands,Italy,2008,3,0
+Italy,Romania,2008,1,1
+Switzerland,Czech Republic,2008,0,1
+Portugal,Turkey,2008,2,0
+Czech Republic,Portugal,2008,1,3
+Switzerland,Portugal,2008,2,0
+Turkey,Czech Republic,2008,3,2
+Switzerland,Turkey,2008,1,2
+Germany,Poland,2008,2,0
+Croatia,Germany,2008,2,1
+Austria,Poland,2008,1,1
+Poland,Croatia,2008,0,1
+Austria,Germany,2008,0,1
+Romania,France,2008,0,0
+Austria,Croatia,2008,0,1
+England,Ukraine,2012,1,0
+France,England,2012,1,1
+Ukraine,Sweden,2012,2,1
+Ukraine,France,2012,0,2
+Sweden,England,2012,2,3
+Sweden,France,2012,2,0
+Italy,Republic of Ireland,2012,2,0
+Germany,Greece,2012,4,2
+Spain,France,2012,2,0
+England,Italy,2012,0,0
+Portugal,Spain,2012,0,0
+Germany,Italy,2012,1,2
+Spain,Italy,2012,4,0
+Czech Republic,Portugal,2012,0,1
+Croatia,Spain,2012,0,1
+Czech Republic,Poland,2012,1,0
+Italy,Croatia,2012,1,1
+Spain,Republic of Ireland,2012,4,0
+Poland,Greece,2012,1,1
+Russia,Czech Republic,2012,4,1
+Poland,Russia,2012,1,1
+Greece,Russia,2012,1,0
+Netherlands,Denmark,2012,0,1
+Greece,Czech Republic,2012,1,2
+Denmark,Portugal,2012,2,3
+Netherlands,Germany,2012,1,2
+Portugal,Netherlands,2012,2,1
+Denmark,Germany,2012,1,2
+Spain,Italy,2012,1,1
+Republic of Ireland,Croatia,2012,1,3
+Germany,Portugal,2012,1,0
+Hungary,Portugal,2016,3,3
+Iceland,Austria,2016,2,1
+Portugal,Austria,2016,0,0
+Iceland,Hungary,2016,1,1
+Sweden,Belgium,2016,0,1
+Austria,Hungary,2016,0,2
+Italy,Republic of Ireland,2016,0,1
+Switzerland,Poland,2016,1,1
+Belgium,Republic of Ireland,2016,3,0
+Portugal,Iceland,2016,1,1
+Wales,Northern Ireland,2016,1,0
+Wales,Belgium,2016,3,1
+France,Republic of Ireland,2016,2,1
+Germany,Slovakia,2016,3,0
+Hungary,Belgium,2016,0,4
+Italy,Spain,2016,2,0
+Poland,Portugal,2016,1,1
+Italy,Sweden,2016,1,0
+Germany,Italy,2016,1,1
+France,Iceland,2016,5,2
+Portugal,Wales,2016,2,0
+Germany,France,2016,0,2
+Portugal,France,2016,1,0
+Croatia,Portugal,2016,0,1
+Belgium,Italy,2016,0,2
+England,Iceland,2016,1,2
+Croatia,Spain,2016,2,1
+France,Romania,2016,2,1
+Albania,Switzerland,2016,0,1
+Romania,Switzerland,2016,1,1
+France,Albania,2016,2,0
+Romania,Albania,2016,0,1
+Switzerland,France,2016,0,0
+Republic of Ireland,Sweden,2016,1,1
+England,Russia,2016,1,1
+Russia,Slovakia,2016,1,2
+England,Wales,2016,2,1
+Russia,Wales,2016,0,3
+Wales,Slovakia,2016,2,1
+Poland,Northern Ireland,2016,1,0
+Slovakia,England,2016,0,0
+Spain,Turkey,2016,3,0
+Czech Republic,Croatia,2016,2,2
+Spain,Czech Republic,2016,1,0
+Turkey,Croatia,2016,0,1
+Czech Republic,Turkey,2016,0,2
+Ukraine,Poland,2016,0,1
+Germany,Poland,2016,0,0
+Ukraine,Northern Ireland,2016,0,2
+Germany,Ukraine,2016,2,0
+Northern Ireland,Germany,2016,0,1
+Spain,Poland,2020,1,1
+Slovakia,Spain,2020,0,5
+Sweden,Poland,2020,3,2
+Hungary,Portugal,2020,0,3
+France,Germany,2020,1,0
+Hungary,France,2020,1,1
+Portugal,Germany,2020,2,4
+Portugal,France,2020,2,2
+Germany,Hungary,2020,2,2
+Wales,Denmark,2020,0,4
+Italy,Spain,2020,1,1
+Netherlands,Czech Republic,2020,0,2
+Belgium,Portugal,2020,1,0
+Croatia,Spain,2020,3,5
+France,Switzerland,2020,3,3
+England,Germany,2020,2,0
+Sweden,Ukraine,2020,1,2
+Switzerland,Spain,2020,1,1
+Belgium,Italy,2020,1,2
+Czech Republic,Denmark,2020,1,2
+Ukraine,England,2020,0,4
+Sweden,Slovakia,2020,1,0
+Italy,Austria,2020,2,1
+Spain,Sweden,2020,0,0
+Austria,North Macedonia,2020,3,1
+Czech Republic,England,2020,0,1
+England,Denmark,2020,2,1
+Turkey,Italy,2020,0,3
+Wales,Switzerland,2020,1,1
+Turkey,Wales,2020,0,2
+Italy,Switzerland,2020,3,0
+Switzerland,Turkey,2020,3,1
+Italy,Wales,2020,1,0
+Denmark,Finland,2020,0,1
+Belgium,Russia,2020,3,0
+Finland,Russia,2020,0,1
+Denmark,Belgium,2020,1,2
+Russia,Denmark,2020,1,4
+Finland,Belgium,2020,0,2
+Netherlands,Ukraine,2020,3,2
+Ukraine,North Macedonia,2020,2,1
+Netherlands,Austria,2020,2,0
+North Macedonia,Netherlands,2020,0,3
+Ukraine,Austria,2020,0,1
+England,Croatia,2020,1,0
+Scotland,Czech Republic,2020,0,2
+Croatia,Czech Republic,2020,1,1
+England,Scotland,2020,0,0
+Croatia,Scotland,2020,3,1
+Poland,Slovakia,2020,1,2
+Italy,England,2020,1,1
