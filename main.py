@@ -45,6 +45,7 @@ df_fixture = pd.read_csv('uefa_euro_fixture.csv')
 
 df_fixture['home'] = df_fixture['home'].str.strip()
 df_fixture['away'] = df_fixture['away'].str.strip()
+df_fixture.to_csv('uefa_euro_fixture.csv', index=False)
 
 df_historical_data['home'] = df_historical_data['home'].str.strip()
 df_historical_data['away'] = df_historical_data['away'].str.strip()
@@ -55,7 +56,6 @@ df_historical_data['away'] = df_historical_data['away'].str.strip()
 # drop null data
 # df_historical_data.dropna(inplace=True)
 
-df_historical_data.to_csv('uefa_euro_fixture.csv', index=False)
 
 # sort dataframe by columns --> years
 df_historical_data.sort_values('year', inplace=True)
