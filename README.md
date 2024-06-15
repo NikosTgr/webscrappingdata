@@ -1,2 +1,2 @@
 # webscrappingdata
-webcraping and cleaning football data
+webcraping football matches from wikipedia and cleaning football data
