@@ -104,8 +104,6 @@ df_fixture.to_csv('final_uefa_euro_fixture.csv', index=False)
 # print(year, len(df_historical_data[df_historical_data['Year']==year]))
 
 # dict_table = pickle.load(open('dict_table', 'rb'))
-# df_historical_data = pd.read_csv('clean_fifa_worldcup_matches.csv')
-# df_fixture = pd.read_csv('clean_fifa_worldcup_fixture.csv')
 # print(dict_table['Group A'])
 # split df in home and away
 print(df_historical_data)
